@@ -1,0 +1,28 @@
+{
+  "name": "ibeacon-id-gen",
+  "version": "1.0.0",
+  "description": "iBeacon ID Generator",
+  "main": "ibeacon-id-gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perusworld/ibeacon-id-gen.git"
+  },
+  "keywords": [
+    "ibeacon",
+    "uuid",
+    "generator"
+  ],
+  "author": "Saravana Perumal Shanmugam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perusworld/ibeacon-id-gen/issues"
+  },
+  "homepage": "https://github.com/perusworld/ibeacon-id-gen#readme",
+  "dependencies": {
+    "node-uuid": "^1.4.7",
+    "pad": "^1.0.0"
+  }
+}
